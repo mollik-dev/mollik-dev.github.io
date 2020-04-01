@@ -64,13 +64,8 @@ p {font-size: 14pt}
 }
 
 .jewel {
-    width: 100%; /* Ширина таблицы */
     border: 1px solid #000; /* Рамка вокруг таблицы */
     border-collapse: collapse;
- }
- .jewel th {
-    background: #666;
-    color: #fff;
  }
  .jewel td, .jewel th { 
     padding: 3px; /* Поля вокруг текста */
