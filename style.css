@@ -64,11 +64,10 @@ p {font-size: 14pt}
 }
 
 .jewel {
-    border: 1px solid #000; /* Рамка вокруг таблицы */
     border-collapse: collapse;
  }
- .jewel td, .jewel th { 
-    padding: 3px; /* Поля вокруг текста */
-    text-align: left; /* Выравнивание по левому краю */ 
-    border: 1px solid #000;
- }
+ jewel td, .jewel th {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #25825250;
+}
