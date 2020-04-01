@@ -48,4 +48,14 @@ p {font-size: 14pt}
   width: 100%;
 }
 
-hr{width: 100%; box-shadow: 0 -5px 5px;}
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+}
+
+.header {
+ width: 100%;  
+}
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+}
