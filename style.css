@@ -20,9 +20,6 @@ body {font-family: Arial, "Arial";}
   width: 90%;
 }
 
-.header{
-  text-decoration: none;
-}
 a.header-item{
   text-decoration: none;
   color: rgb(70, 70, 100);
