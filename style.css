@@ -48,4 +48,4 @@ p {font-size: 14pt}
   width: 100%;
 }
 
-hr{width: 100%;}
+hr{width: 100%; box-shadow: 0 -5px 5px;}
